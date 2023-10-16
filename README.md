@@ -15,10 +15,10 @@ This project is NOT mandatory at all. It is 100% optional. Doing any part of thi
 ## Resources
 
 Read or watch:
-- [RSA](link-to-rsa)
-- [How does HTTPS provide security?](link-to-https-security)
-- [Prime Factorization](link-to-prime-factorization)
-- [Why RSA?](link-to-why-rsa)
+- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)
+- [How does HTTPS provide security?](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
+- [Prime Factorization](https://privacycanada.net/mathematics/prime-factorization/)
+- [Why RSA?](https://jaredatandi.hashnode.dev/rsa-factoring)
 
 ## Requirements
 
